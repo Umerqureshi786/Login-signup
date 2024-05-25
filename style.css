@@ -1,0 +1,11 @@
+div.form {
+    background-color: rgb(228, 216, 201);
+    border: 1px solid blue;
+    width: 24rem;
+    justify-content: center;
+    /* display: flex; */
+}
+
+h1 {
+    justify-content: center;
+}
